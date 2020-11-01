@@ -16,3 +16,7 @@ git push -u origin master
        Bienvenue, nous sommes heureux de vous annoncer l'ouverture de la 6ix1ne sur Brawl Stars. C'est une team fun mais sérieuse à la fois. N'hésitez pas rejoindre le discord.
     </body>
 </html>
+ git add .
+  git status
+  git commit -am "Création de ma page html de base"
+  git log
