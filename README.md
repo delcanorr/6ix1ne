@@ -5,3 +5,14 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/cristhos/6ix1ne.git
 git push -u origin master
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>6ix1ne</title>
+    </head>
+    <body>
+       Bienvenue, nous sommes heureux de vous annoncer l'ouverture de la 6ix1ne sur Brawl Stars. C'est une team fun mais sérieuse à la fois. N'hésitez pas rejoindre le discord.
+    </body>
+</html>
