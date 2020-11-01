@@ -11,6 +11,7 @@ git push -u origin master
     <head>
         <meta charset="UTF-8">
         <title>6ix1ne</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
        Bienvenue, nous sommes heureux de vous annoncer l'ouverture de la 6ix1ne sur Brawl Stars. C'est une team fun mais sérieuse à la fois. N'hésitez pas rejoindre le discord.
